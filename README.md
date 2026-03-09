@@ -1,5 +1,7 @@
 # RE:COIL
 
+![Gameplay](screenshot.jpg)
+
 A fast-paced action game where recoil is the core movement mechanic.
 
 ---
